@@ -1,0 +1,574 @@
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry prueba\AppControlTraficoPorteria - copia\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Desarrollo\Proyectos\C#\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry que andan\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry1\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria - copia - copia\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Berry 7-7-22\Apps Berry anda porteria anda casi todo\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps Berry\Apps Berry 0906\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps Berry\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - copia\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 29-7 13.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 30-7 7.50\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\MaterialSkin.dll
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.inicio.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.cargarPesoTaraIngreso.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CargaBrutoNeto.resources
+C:\Users\Leonel\Desktop\Apps\AppsPorteriaLogistica - 1-8 7.20\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.EditarCamion.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\MaterialSkin.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CargaBrutoNeto.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.cargarPesoTaraIngreso.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.EditarCamion.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.inicio.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\AppsFin\Apps\AppsPorteriaLogistica\app-sControlTrafico\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\MaterialSkin.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Camion.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CargaBrutoNeto.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.cargarPesoTaraIngreso.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.CompletarInfoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.EditarCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.Form1.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.HistorialCamiones.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.inicio.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.NuevoCamion.resources
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.csproj.CopyComplete
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\refint\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\AppControlTraficoPorteria.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Apps\AppControlTraficoPorteria\AppControlTraficoPorteria\obj\Debug\net5.0-windows\ref\AppControlTraficoPorteria.dll

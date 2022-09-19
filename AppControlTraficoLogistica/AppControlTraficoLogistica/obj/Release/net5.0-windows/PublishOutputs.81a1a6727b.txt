@@ -1,0 +1,11 @@
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\AppControlTraficoLogistica.exe
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\AppControlTraficoLogistica.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\AppControlTraficoLogistica.deps.json
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\AppControlTraficoLogistica.runtimeconfig.json
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\AppControlTraficoLogistica.pdb
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Ejecutables\Logistica\Sin Foto\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

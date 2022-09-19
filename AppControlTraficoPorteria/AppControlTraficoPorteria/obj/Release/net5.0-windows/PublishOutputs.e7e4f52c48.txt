@@ -1,0 +1,11 @@
+C:\Users\Leonel\Desktop\Ejecutables\AppControlTraficoPorteria.exe
+C:\Users\Leonel\Desktop\Ejecutables\AppControlTraficoPorteria.dll
+C:\Users\Leonel\Desktop\Ejecutables\AppControlTraficoPorteria.deps.json
+C:\Users\Leonel\Desktop\Ejecutables\AppControlTraficoPorteria.runtimeconfig.json
+C:\Users\Leonel\Desktop\Ejecutables\AppControlTraficoPorteria.pdb
+C:\Users\Leonel\Desktop\Ejecutables\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Ejecutables\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\Ejecutables\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\Ejecutables\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
